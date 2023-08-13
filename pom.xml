@@ -100,7 +100,7 @@
 
     <repositories>
         <repository>
-            <id>public</id>
+            <id>songoda-public</id>
             <url>https://repo.songoda.com/repository/public/</url>
         </repository>
 
